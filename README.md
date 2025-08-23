@@ -6,23 +6,19 @@
 
 # 📲Sistema integrado para gestão de chamados e suporte técnico baseado em IA.
 
-# PIM- 2°/3° semestre
-Projeto PIM - 1° semestre de 2025
+# 3° semestre
+Projeto PSOO
 
 
 
 # 🎓 Aprendizado por Projeto Integrador
 * UNIP
 
-* 2º / 3º Período - Analise e Desenvolvimento de Sistemas
+* 3º Período - Analise e Desenvolvimento de Sistemas
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Equipe:
-
-
-## 👨‍💻 👩‍💻 Integrantes
 
 | Aluno            | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
