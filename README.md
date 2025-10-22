@@ -118,4 +118,22 @@ Treinamento e Capacitação
 # 📝 Sprint Backlog
 [📄 Confira a documentação completa aqui](https://github.com/Lucasmsg97/PSOO/blob/main/SprintBacklog_vers%C3%A3o1%20(1)%20(1).pdf)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 📝 Diagramas
+[📄 Confira a documentação completa aqui](https://github.com/Lucasmsg97/PSOO/blob/main/Diagramas%20mvp%20desk%20atualizado.asta)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 📝 Manual do Sistema
+
+[📄 Confira a documentação completa aqui](https://github.com/Lucasmsg97/PSOO/blob/main/Manual_MVP_Desk_Atualizado%20(1).docx)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# 📝 Código do Sistema
+[📄 Confira a documentação completa aqui](https://github.com/Lucasmsg97/PSOO/blob/main/MVP%20Desk%20WEB%20(1).rar)
+
+
 
